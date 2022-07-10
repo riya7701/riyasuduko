@@ -1,2 +1,1 @@
-Sudoku Solver
-Solves randomly generated Sudoku puzzles using Backtracking Algorithm.
+A website that solves randomly generated Sudoku puzzles using Backtracking Algorithm.
